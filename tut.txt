@@ -1,0 +1,39 @@
+                            Node JS
+
+1. environment to run JS outside Browser
+2. Built on Chrome's V8 Js Engine
+3. Big Community
+4. Full-Stack
+
+
+                        Requirements
+1. HTML,CSS,JS,ES6
+2. Callbacks ,Promises, Aysnc-Await
+3. YouTube- Coidng Addict
+4. Playlist - JS Nuggets
+
+
+                        Structure
+1.Intro
+2.Install
+3.Node Fundamentals
+4.Express Tuts
+5. Building Apps
+
+
+    Browser                             Node.js
+    1.DOM                               1. No DOM                                                     4. FileSystem                                                           5. Versions                                                    6. CommonJS
+    2.Window                            2. No Window 
+    3.Interactive Apps                  3. Server Side Apps
+    4.No FileSystem                     4. FileSystem
+    5.Fragmentation                     5. Versions
+    6.ES6 Modules                       6. CommonJS
+    
+    Built-in Modules
+
+        1.OS
+        2.Path
+        3.FS
+        4.HTTP
+
+        
